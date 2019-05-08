@@ -1,9 +1,19 @@
-# py_tut
+# PyTut
 python tutorial code examples.
 
-https://realpython.com/
-[fluent python]
-[python cookbook 3rd]
+# Resource
+Awesome Python
+https://github.com/vinta/awesome-python
+
+Python 3 Module of Week
 https://pymotw.com/3/
+
 http://www.dabeaz.com/tutorials.html
+
+Invent with Python
 https://inventwithpython.com/
+
+# Book
+[fluent python]
+
+[python cookbook 3rd]
